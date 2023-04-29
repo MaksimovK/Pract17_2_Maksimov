@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PinCode</string>
+    <string name="pin">PinCode</string>
+    <string name="save">Next</string>
+    <string name="exit">Exit</string>
+    <string name="info">Информация о приложение</string>
+</resources>
